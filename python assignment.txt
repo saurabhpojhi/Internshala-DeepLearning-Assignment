@@ -1,0 +1,8 @@
+Declare a variable named ‘str’ with value as "Python course". Write queries to output the following results
+
+The first character of the ‘str’
+2nd to 5th character of the ‘str’
+Last character of the ‘str’
+The reverse of ‘str’ i.e. 'esruoc nohtyP'
+Every alternate character (1st, 3rd, 5th…..) of ‘str’
+Every alternate character (2nd, 4th, 6th….) of ‘str’ from the 2nd character

@@ -1,0 +1,11 @@
+Programming Practice Assignment
+Output a NumPy array of 5 random values.
+
+Click here to download the ‘fifa18_clean.csv’ file. (Data of 17k+ players, and some attributes extracted from FIFA 18)
+
+Import data in dataframe ‘data1’ using python
+Output the first 5 rows of the dataframe ‘data1’ 
+Output some basic statistical details like percentile, mean, std etc. of numeric columns of ‘data1’ 
+Plot a distribution plot for the ‘Wage_Euro’ column
+Plot a joint plot between ‘Wage_Euro’ and ‘Overall’ column
+ 
